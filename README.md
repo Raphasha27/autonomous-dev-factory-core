@@ -80,3 +80,9 @@ Help us build the absolute future of zero-touch automated engineering swarms! Sp
 - **OpenCollective**: [Support the Swarm](https://opencollective.com/devfactory-swarm)
 
 *Developed with ❤️ by the DevFactory team.*
+
+## Contributors
+
+This project is developed and maintained together with the team:
+- [Raphasha27](https://github.com/Raphasha27) — Project lead & maintainer
+- [KirovDynamicsTechnology](https://github.com/KirovDynamicsTechnology) — Kirov Dynamics (company)
